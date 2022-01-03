@@ -4,10 +4,10 @@
  Find the best deal for the game you desire. this site leverages the RawG api as well as the cheapshark api to bring the best deal from all over the web. Get in the Game Now!
 
 ## Installation
-No installation required go to https://jdomindev.github.io/game-getter/ to get the game you want for the best price.
+No installation required go to https://rykaplan1.github.io/game-getter/ to get the game you want for the best price.
 
 ## Usage
-- Repo Link: https://github.com/jdomindev/game-getter
+- Repo Link: https://github.com/rykaplan1/game-getter
 - Screenshots: 
     ![Screenshot1](./assets/images/screenshots/home-page.png)
     ![Screenshot2](./assets/images/screenshots/search-results.png)
